@@ -49,22 +49,22 @@ function getProductInfo(paintColor) {
             colorName = 'Royal Blue'
             updatePrice(colorName, price)  
             break;   
-        case 'pn4':
+        case 'pn6':
             price = '$4.99'
             colorName = 'Solid Black'
             updatePrice(colorName, price)  
             break;   
-        case 'pn5':
+        case 'pn7':
             price = '$8.22'
             colorName = 'Solid Cyan'
             updatePrice(colorName, price)       
             break;   
-        case 'pn6':
+        case 'pn8':
             price = '$11.99'
             colorName = 'Solid Purple'
             updatePrice(colorName, price)        
             break;   
-        case 'pn7':
+        case 'pn4':
             price = '$13.42'
             colorName = 'Solid Red'
             updatePrice(colorName, price) 
